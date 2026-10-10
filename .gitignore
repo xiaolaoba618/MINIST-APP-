@@ -1,0 +1,4 @@
+.workbuddy/
+.venv/
+data/MNIST/
+.idea/
